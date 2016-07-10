@@ -24,7 +24,7 @@ public class Main {
 }
 
 enum Fruit{
-    APPLE, PEACH, BANANA;
+    APPLE, PEACH, BANANA, STRAWBERRY;
     private Fruit(){
         System.out.println("Call Constructor "+this);
     }
